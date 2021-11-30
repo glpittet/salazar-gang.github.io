@@ -1,5 +1,5 @@
 ---
 layout: page
-title: There is No Planet B
+title: Social context influence on views on climate change
 cover-img: img/climate_change.jpg
 ---

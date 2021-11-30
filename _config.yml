@@ -8,7 +8,7 @@
 # Name of website
 title: Social context influence on views on climate change
 # Short description of your site
-description: AdA 2019
+description: AdA 2021
 # Your name to show in the footer
 author: Gloria Pittet, Jeremy Goumaz, Marwan Haioun, Laurent Gürtler
 
@@ -25,10 +25,10 @@ author: Gloria Pittet, Jeremy Goumaz, Marwan Haioun, Laurent Gürtler
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: ""
+#avatar: ""
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
-round-avatar: true
+#round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter

@@ -6,10 +6,11 @@
 # --- Required options --- #
 
 # Name of website
-title: My Website
+title: Social context influence on views on climate change
 
 # Your name to show in the footer
-author: Some Person
+author:
+  name: Gloria Pittet, Jeremy Goumaz, Marwan Haioun, Laurent Gürtler
 
 # --- List of links in the navigation bar --- #
 

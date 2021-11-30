@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Views on climate change: the influence of social context 
-cover-img: img/air_pollution.jpg
+title: There is No Plan Bee Without Them
+cover-image: img/air_pollution.jpg
 ---
 ### Why climate change ?

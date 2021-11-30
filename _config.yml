@@ -10,7 +10,7 @@ title: Social context influence on views on climate change
 # Short description of your site
 description: AdA 2021
 # Your name to show in the footer
-author: Glo Pittet, Jeremy Goumaz, Marwan Haioun, Laurent Gürtler
+author: Gloria Pittet, Jeremy Goumaz, Marwan Haioun, Laurent Gürtler
 
 # --- List of links in the navigation bar --- #
 
@@ -40,10 +40,10 @@ author: Glo Pittet, Jeremy Goumaz, Marwan Haioun, Laurent Gürtler
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
+github: glpittet/salazar-gang.github.io
 #  email: ""
 # rss: true  # remove this line if you don't want to show an RSS link at the bottom
 #  facebook: 
-github: "https://github.com/glpittet/salazar-gang.github.io"
 #  twitter:
 #  patreon:
 #  youtube:

@@ -1,5 +1,5 @@
 ---
 layout: page
 title: Social context influence on views on climate change 
-cover-img: img/MackenzieRiver.jpg
+cover-img: img/air_pollution.jpg
 ---

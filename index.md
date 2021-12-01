@@ -9,19 +9,16 @@ Nowadays, man-made climate change and global warming have become an emergency th
 <br />
 However, still **~30% of the worldwide population views climate change as a minor threat or not a threat at all** and do not consider the matter as an emergency. This constitutes a huge barrier in adressing climate change as changing the public opinion is needed to encourage climate-friendly behaviours. Therefore, changing public opinion may be a huge part of the solution but also one of the greatest challenges. This is why **identifying the factors that influence public views on climate change is a critical step** to urge politics to propose solutions on the matter and convince the population to act daily. Furthermore, **visibility of the topic in the media is crucial** to sensitize the population on the severity of the situation.
 
-<p align="center">
-<img src="img/Public_opinions.svg.png" alt="opinions" width="400"/>
-</p>
-<p align="center">
-<figcaption><em>Figure 1.</em> Yale Climate Connection-reported survey in 31 countries of public opinion on the causes of climate change.</figcaption>
-</p>
-
-## How much is climate change mentioned in the news ?[^1]
+<figure align="center">
+    <img src="img/Public_opinions.svg.png" alt="opinions" width="400"/>
+    <figcaption><em>Figure 1.</em> Yale Climate Connection-reported survey in 31 countries of public opinion on the causes of climate change <a href=[^2]></a>.</figcaption>
+</figure>
 
 
+## How much is climate change mentioned in the news ?
 
 ## References
 
-[^1]: https://climatecommunication.yale.edu/wp-content/uploads/2021/06/international-climate-opinion-february-2021d.pdf
+[^2]: [Yale programm on climate change communication, *International Public Opinion on Climate Change*, 2021](https://climatecommunication.yale.edu/wp-content/uploads/2021/06/international-climate-opinion-february-2021d.pdf)
 
 

@@ -21,6 +21,7 @@ However, still **~30% of the worldwide population views climate change as a mino
 
 
 ## References
+
 [^1]: (https://climatecommunication.yale.edu/wp-content/uploads/2021/06/international-climate-opinion-february-2021d.pdf)
 
 

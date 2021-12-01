@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Climate change: a "social dilemma""
+title: "Climate change: a social dilemma"
 cover-img: img/air_pollution.jpg
 ---
 ## Climate change is a global emergency

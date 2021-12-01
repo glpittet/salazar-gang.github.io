@@ -1118,6 +1118,7 @@ pre {
  figcaption {
    text-align: center;
    font-size: 0.8em;
+   width: 400px;
  }
 
 .footnotes > ol > li {

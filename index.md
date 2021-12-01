@@ -6,7 +6,7 @@ cover-img: img/air_pollution.jpg
 ## Climate change is a global emergency !
 ### Public opinion on climate change: a barrier that is part of the solution
 
-<div class="withSidenote" markdown="0.5">
+<div class="withSidenote" markdown="1">
     
 Nowadays, man-made climate change and global warming have become an emergency that goes far beyond national boundaries and certainly represents one of the **greatest challenges humankind has ever faced**. In fact, because of direct consequences like heat waves, more frequent and intense storms, rising sea levels, warming of the oceans and many others, humans, but most importantly animals, face new challenges for survival. In order to limit as much as possible the damages, **concrete actions need to be undertaken**.<br />
     

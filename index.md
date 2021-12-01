@@ -8,7 +8,7 @@ cover-img: img/air_pollution.jpg
 
 <div class="withSidenote" markdown="0.5">
 <figure class="sidenote">
-    <img src="img/Public_opinions.svg.png">
+    <img src="img/earth.jpg">
     <figcaption><em>Figure 1.</em> Yale Climate Connection-reported survey in 31 countries of public opinion on the causes of climate change.</figcaption>
 </figure>
 </div>

@@ -7,7 +7,9 @@ cover-img: img/air_pollution.jpg
 ### Public opinion on climate change: a barrier that is part of the solution
 
 <div class="withSidenote" markdown="0.5">
+    
 Nowadays, man-made climate change and global warming have become an emergency that goes far beyond national boundaries and certainly represents one of the **greatest challenges humankind has ever faced**. In fact, because of direct consequences like heat waves, more frequent and intense storms, rising sea levels, warming of the oceans and many others, humans, but most importantly animals, face new challenges for survival. In order to limit as much as possible the damages, **concrete actions need to be undertaken**.<br />
+    
 <figure class="sidenote">
     <img src="img/Public_opinions.svg.png">
     <figcaption><em>Figure 1.</em> Yale Climate Connection-reported survey in 31 countries of public opinion on the causes of climate change.</figcaption>

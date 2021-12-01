@@ -6,7 +6,7 @@ cover-img: img/air_pollution.jpg
 ## Climate change is a global emergency !
 ### Public opinion on climate change: a barrier that is part of the solution
 
-<div class="withSidenote" markdown="0.5">
+<div class="withSidenote" markdown="2">
 <figure class="sidenote">
     <img src="img/earth.jpg">
     <figcaption><em>Figure 1.</em> Yale Climate Connection-reported survey in 31 countries of public opinion on the causes of climate change.</figcaption>

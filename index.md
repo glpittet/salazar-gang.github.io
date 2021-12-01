@@ -14,4 +14,4 @@ However, still **~30% of the worldwide population views climate change as a mino
 <figcaption><em>Figure 1.</em> Yale Climate Connection-reported survey in 31 countries of public opinion on the causes of climate change.</figcaption>
 </p>
 
-##How much is climate change mentioned in the news ?
+## How much is climate change mentioned in the news ?

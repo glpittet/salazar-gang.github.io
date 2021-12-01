@@ -10,7 +10,7 @@ title: The Salazar Gang data story
 # Short description of your site
 description: AdA 2021
 # Your name to show in the footer
-author: Gloria Pittet, Jeremy Goumaz, Marwan Haioun, Laurent Gürtler
+author: Gloria Pittet, Jeremy Goumaz, Marwan Haioun & Laurent Gürtler
 
 # --- List of links in the navigation bar --- #
 
@@ -25,7 +25,7 @@ author: Gloria Pittet, Jeremy Goumaz, Marwan Haioun, Laurent Gürtler
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "img/earth.jpg"
+avatar: ["img/earth.jpg"](https://solarsystem.nasa.gov/planets/earth/overview/)
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 #round-avatar: true

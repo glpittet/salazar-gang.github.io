@@ -9,4 +9,5 @@ Nowadays, man-made climate change and global warming have become an emergency th
 <br />
 However, still **~30% of the worldwide population views climate change as a minor threat or not a threat at all** and do not consider the matter as an emergency. This constitutes a huge barrier in adressing climate change as changing the public opinion is needed to encourage climate-friendly behaviours. Therefore, changing public opinion may be a huge part of the solution but also one of the greatest challenges. This is why **identifying the factors that influence public views on climate change is a critical step** to urge politics to propose solutions on the matter and convince the population to act daily. Furthermore, **visibility of the topic in the media is crucial** to sensitize the population on the severity of the situation.
 
-![Figure 1 Yale Climate Connection-reported survey in 31 countries of public opinion on the causes of climate change](img/Public_opinions.svg.png)
+![](img/Public_opinions.svg.png)
+<em>Figure 1.<em> Yale Climate Connection-reported survey in 31 countries of public opinion on the causes of climate change.

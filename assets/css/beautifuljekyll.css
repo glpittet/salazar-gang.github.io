@@ -1104,9 +1104,9 @@ pre {
 
  .sidenote {
    position: fixed;
-   top: 40%;
+   top: 10%;
    right: 2rem;
-   max-width: 25rem;
+   max-width: 10rem;
    transition: 0.2s ease-in transform;
    transform: translateX(100%) translateX(2rem);
  }

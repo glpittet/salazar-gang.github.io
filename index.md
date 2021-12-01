@@ -11,6 +11,8 @@ However, still **~30% of the worldwide population views climate change as a mino
 
 <p align="center">
 <img src="img/Public_opinions.svg.png" alt="opinions" width="400"/>
+</p>
+<p align="center">
 <figcaption><em>Figure 1.</em> Yale Climate Connection-reported survey in 31 countries of public opinion on the causes of climate change[^1].</figcaption>
 </p>
 
@@ -19,6 +21,6 @@ However, still **~30% of the worldwide population views climate change as a mino
 
 
 ## References
-[^1] : [Yale programm on climate change communication, *International Public Opinion on Climate Change*, 2021](https://climatecommunication.yale.edu/wp-content/uploads/2021/06/international-climate-opinion-february-2021d.pdf)
+[^1]: [Yale programm on climate change communication, *International Public Opinion on Climate Change*, 2021](https://climatecommunication.yale.edu/wp-content/uploads/2021/06/international-climate-opinion-february-2021d.pdf)
 
 

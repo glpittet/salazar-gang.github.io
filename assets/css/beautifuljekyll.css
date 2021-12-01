@@ -1104,7 +1104,7 @@ pre {
 
  .sidenote {
    position: fixed;
-   top: 30%;
+   top: 40%;
    right: 2rem;
    max-width: 25rem;
    transition: 0.2s ease-in transform;
@@ -1119,3 +1119,12 @@ pre {
    text-align: center;
    font-size: 0.8em;
  }
+
+.footnotes > ol > li {
+  font-size: 0.8em;
+}
+
+.footnotes > ol > li > p {
+  font-size: inherit;
+  margin: 0.7em 0;
+}

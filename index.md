@@ -17,18 +17,23 @@ However, still **~30% of the worldwide population views climate change as a mino
 We therefore decided to first evaluate the occurence of climate change and global warming in the discussed matters on the newspapers. We then analysed the influence of the social context (age, academic degree, profession, political party…) on the opinions of climate change using the [QuoteBank dataset](https://zenodo.org/record/4277311#.YboGUC_pOPQ) to answer several questions listed below.
 
 ## How much is climate change mentioned in the news ?
+# An increased tendency through the years and through the months ?
 To have a better idea on the importance the news give to the topic of global warming and climate change, we asked ourselves an obvious but important question:<br/> 
 <center><b>How much do speakers talk about climate change in the news ? Do they talk about it at all ?</b></center>
 <br/>
 To answer these questions, we first sorted the quotes of the QuoteBank dataset in order to keep only the quotes related to climate change by keyword search. We were then able to visualize the occurence of climate-related quotes through the years, from 2008 to 2020: <br/>
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="100%" height="550" src="html/occurence_year.html"></iframe>
+<br/>
+Because global warming is becoming a more and more serious problem in our society, we expected an increase in the occurence of the topic through the years. In fact, we can observe in this first plot an overall increased tendency of climate-related quotes. Interestingly, the end of the year 2009 also shows a higher occurence. Several hypothesis could explain that phenomenon:
+- First, at that time 2009 was tied for the second warmest year in the modern record by the NASA[^2], which could explain why global warming was a particular hot topic during this time period.
+- It is also possible that the QuoteBank dataset contains more quotes from December 2009 than from other time periods, thereby producing a bias.
 
-
-
+<br/>
+An other interesting fact that one can observe from this plot is the increase in the occurence of climate-related quotes at the end of the year. Let's have a closer look at this:
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="100%" height="550" src="html/occurence_month.html"></iframe>
 
 ## Who talks about climate change ?
 ## References
 [^1]: [Pew research center, *A look at how people around the world view climate change*, 2019](https://www.pewresearch.org/fact-tank/2019/04/18/a-look-at-how-people-around-the-world-view-climate-change/)
-
+[^2]: [NASA earth science news ,*2009: Second warmest year on record; end of warmest decade*, 2010](https://climate.nasa.gov/news/249/2009-second-warmest-year-on-record-end-of-warmest-decade/)
 

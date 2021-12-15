@@ -1129,3 +1129,30 @@ pre {
   font-size: inherit;
   margin: 0.7em 0;
 }
+
+.question {
+  @include stretch-to-vw;
+
+  overflow: hidden;
+
+  $margin-around-images: 3em;
+  margin-bottom: $margin-around-images;
+  &.in-text { margin-top: $margin-around-images; }
+
+  color: white;
+  transition: background-color 0.35s;
+
+
+  // colors
+  @for $i from 1 through length($themecolors) {
+    $l: length($themecolors);
+
+    &:nth-child(#{$l}n + #{$i}) {
+      $color: nth(map-values($themecolors), $i);
+      background-color: $color;
+
+      &.active {
+        background-color: rgba($color, 0.4);
+      }
+    }
+  }

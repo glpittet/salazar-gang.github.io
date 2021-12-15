@@ -17,7 +17,7 @@ However, still **~30% of the worldwide population views climate change as a mino
 We therefore decided to first evaluate the occurence of climate change and global warming in the discussed matters on the newspapers. We then analysed the influence of the social context (age, academic degree, profession, political party…) on the opinions of climate change using the [QuoteBank dataset](https://zenodo.org/record/4277311#.YboGUC_pOPQ) to answer several questions listed below.
 
 # How much is climate change mentioned in the news ?
-### An increased tendency through the years and through the months...
+### An increased tendency through the years...
 To have a better idea on the importance the news give to the topic of global warming and climate change, we asked ourselves an obvious but important question:
 <br /> 
 <center><b>How much do speakers talk about climate change in the news ? Do they talk about it at all ?</b></center>
@@ -31,12 +31,13 @@ Because global warming is becoming a more and more serious problem in our societ
 - It is also possible that the QuoteBank dataset contains more quotes from December 2009 than from other time periods, thereby producing a bias.
 <br />
 
+### And through the months ?
 An other interesting fact that one can observe from this plot is the increase in the occurence of climate-related quotes at the end of the year. Let's have a closer look at this:
 <br />
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="100%" height="550" src="html/occurence_month.html"></iframe>
 
 # Who talks about climate change ?
-
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="100%" height="550" src="html/speaker_characteristics.html"></iframe>
 # References
 
 [^1]: [Pew research center, *A look at how people around the world view climate change*, 2019](https://www.pewresearch.org/fact-tank/2019/04/18/a-look-at-how-people-around-the-world-view-climate-change/)

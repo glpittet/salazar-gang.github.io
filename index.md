@@ -14,6 +14,8 @@ However, still **~30% of the worldwide population views climate change as a mino
     <figcaption><a href="https://climatecommunication.yale.edu/wp-content/uploads/2021/06/international-climate-opinion-february-2021d.pdf"><em>Figure 1.</em></a> Yale Climate Connection-reported survey in 31 countries of public opinion on the causes of climate change. </figcaption>
 </figure>
 
+We therefore decided to first evaluate the occurence of climate change and global warming in the discussed matters on the newspapers. We then analysed the influence of the social context (age, academic degree, profession, political party…) on the opinions of climate change using the [QuoteBank dataset](https://zenodo.org/record/4277311#.YboGUC_pOPQ) to answer several questions listed below.
+
 ## How much is climate change mentioned in the news ?
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="100%" height="550" src="html/occurence.html"></iframe>
 

@@ -15,7 +15,7 @@ However, still **~30% of the worldwide population views climate change as a mino
 </figure>
 
 
-{% include question_title.html in_text=true text="How much is climate change mentioned in the news ?" image_url="img/air_pollution.jpg" %}
+## How much is climate change mentioned in the news ?
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="100%" height="550" src="html/occurence.html"></iframe>
 
 ## References

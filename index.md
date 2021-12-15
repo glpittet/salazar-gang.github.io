@@ -28,18 +28,17 @@ To answer these questions, we first sorted the quotes of the QuoteBank dataset i
 
 <br />
 Because global warming is becoming a more and more serious problem in our society, we expected an increase in the occurence of the topic through the years. In fact, we can observe in this first plot an overall increased tendency of climate-related quotes. Interestingly, the end of the year 2009 also shows a higher occurence. Several hypothesis could explain that phenomenon:<br />
-- First, at that time 2009 was tied for the second warmest year in the modern record by the NASA[^2], which could explain why global warming was a particular hot topic during this time period.
+- First, at that time 2009 was tied for the second warmest year in the modern record by the NASA[^2], which could explain why global warming was a particular hot topic during this time period.<br />
 - It is also possible that the QuoteBank dataset contains more quotes from December 2009 than from other time periods, thereby producing a bias.
 
 <br />
 An other interesting fact that one can observe from this plot is the increase in the occurence of climate-related quotes at the end of the year. Let's have a closer look at this:
-
+<br />
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="100%" height="550" src="html/occurence_month.html"></iframe>
 
 ## Who talks about climate change ?
 
 ## References
-
 
 [^1]: [Pew research center, *A look at how people around the world view climate change*, 2019](https://www.pewresearch.org/fact-tank/2019/04/18/a-look-at-how-people-around-the-world-view-climate-change/)
 

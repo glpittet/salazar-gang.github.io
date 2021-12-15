@@ -18,8 +18,9 @@ We therefore decided to first evaluate the occurence of climate change and globa
 
 ## How much is climate change mentioned in the news ?
 To have a better idea on the importance the news give to the topic of global warming and climate change, we asked ourselves an obvious but important question:</br> 
-<center>**How much do speakers talk about climate change in the news ? Do they talk about it at all ?** </center></br>
-To answer these questions, we first sorted the quotes of the QuoteBank dataset in order to keep only the quotes related to climate change by keyword search. We were then able to visualize the occurence of climate-related quotes through the years, from 2008 to 2020: 
+<center>**How much do speakers talk about climate change in the news ? Do they talk about it at all ?** </center>
+</br>
+To answer these questions, we first sorted the quotes of the QuoteBank dataset in order to keep only the quotes related to climate change by keyword search. We were then able to visualize the occurence of climate-related quotes through the years, from 2008 to 2020: </br>
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="100%" height="550" src="html/occurence_year.html"></iframe>
 
 

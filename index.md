@@ -18,11 +18,11 @@ This data story explores the [QuoteBank dataset](https://zenodo.org/record/42773
 
 # How much is climate change mentioned in the news ?
 ### An increased tendency through the years...
-This question can seem quite obvious and simple to answer. However, to have a better idea on the importance the news give to the topic and the influence they have on the public opinion, we need to first find out how much climate change is mentioned and whether it correlates with the gravity of the situation. Always remember: <br />
+This question can seem quite obvious and simple to answer. However, to have a better idea on the importance the news give to the topic and the influence they have on the public opinion, we need to first find out how much climate change is mentioned and whether it correlates with the gravity of the situation. Always remember:
 
 >If they talk about it, they care.
 
-<br />To answer this question, we first sorted the quotes of the QuoteBank dataset in order to keep only the quotes related to climate change by **keyword search**. the following keywords were chosen by our wonderful team:
+To answer this question, we first sorted the quotes of the QuoteBank dataset in order to keep only the quotes related to climate change by **keyword search**. the following keywords were chosen by our wonderful team:
 - Climate change
 - Global warming
 - Greenhouse effect

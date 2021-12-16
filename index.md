@@ -29,7 +29,7 @@ Because global warming is becoming a more and more serious problem in our societ
 - It is also possible that the QuoteBank dataset contains more quotes from December 2009 than from other time periods, thereby producing a bias.
 
 <figure class="sidenote">
-    <img src="img/varroa_annotated.png">
+    <img src="img/10 hottest years.jpg">
     <figcaption><em>Figure 1.</em> Top 10 hottest years until 2019.</figcaption>
 </figure>
 </div>

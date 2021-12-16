@@ -51,7 +51,7 @@ To understand whether the observed increase in climate related-quotes through th
 
 Even if the correlation isn't very high, we can still observe a positive correlation which is consistent with the hypothesis that the more the situation gets worse, the more the news talk about it.
 
-### When the news talk about climate change, people google it
+### The news talk about it, people google it
 
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="100%" height="550" src="html/correlation_google.html"></iframe>
 

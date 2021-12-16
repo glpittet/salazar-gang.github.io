@@ -78,7 +78,7 @@ To evaluate the influence of the media on public opinion, we thought of comparin
 
 <div class="withSidenote" markdown="1">
 
-Interestingly, we can observe a **significant correlation** with a R<sup>2</sup> of ~0.61, meaning that people do **tend to get informed on subjects that the news cover**. Surprisingly, we can even notice that the highest web search trend corresponds to the highest climate change related-quote occurence, in September 2019. Did a particular event happened in September 2019 ? **Yes absolutely!**
+Interestingly, we can observe a **significant correlation** with a R<sup>2</sup> of ~0.61, meaning that people do **tend to get informed on subjects that the news cover**. Surprisingly, we can even notice that the highest web search trend corresponds to the highest climate change related-quote occurence, in September 2019. Did a particular event happened in September 2019 ? **Yes absolutely!**<br />
 In fact, the Global Week for Future, which were a series of international strikes and protests to demand action be taken to address climate change, took place from 20–27 September 2019[^4]. This explains perfectly the boom in quotes occurence and google searches on the matter. 
 
 <figure class="sidenote">

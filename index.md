@@ -76,7 +76,8 @@ To evaluate the influence of the media on public opinion, we thought of comparin
 
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="100%" height="550" src="html/correlation_google.html"></iframe>
 
-Interestingly, we can observe a **significant correlation** with a R<sup>2</sup> of ~0.61, meaning that people do **tend to get informed on subjects that the news cover**. Surprisingly, we can even notice that the highest web search trend corresponds to the highest climate change related-quote occurence, in September 2019. Did something particular happened in September 2019 ?
+Interestingly, we can observe a **significant correlation** with a R<sup>2</sup> of ~0.61, meaning that people do **tend to get informed on subjects that the news cover**. Surprisingly, we can even notice that the highest web search trend corresponds to the highest climate change related-quote occurence, in September 2019. Did a particular event happened in September 2019 ? **Yes absolutely!**
+In fact, the Global Week for Future, which were a series of international strikes and protests to demand action be taken to address climate change, took place from 20–27 September 2019[^4]. This explains perfectly the boom in quotes occurence and google searches on the matter. 
 
 # Who talks about climate change ?
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="100%" height="550" src="html/speaker_characteristics.html"></iframe>
@@ -88,3 +89,5 @@ Interestingly, we can observe a **significant correlation** with a R<sup>2</sup>
 [^2]: [NASA earth science news, *2009: Second warmest year on record; end of warmest decade*, 2010](https://climate.nasa.gov/news/249/2009-second-warmest-year-on-record-end-of-warmest-decade/)
 
 [^3]: [Climate central, *Top 10 warmest years on record*, 2019](https://www.climatecentral.org/gallery/graphics/top-10-warmest-years-on-record)
+
+[^4]: [The Guardian, *Climate crisis: 6 million people join latest wave of global protests*, 2019](https://www.theguardian.com/environment/2019/sep/27/climate-crisis-6-million-people-join-latest-wave-of-worldwide-protests)

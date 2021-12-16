@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Climate change: a social dilemma"
-cover-img: img/Strike2.jpeg
+cover-img: img/earth-cover.jpg
 ---
 # Climate change is a global emergency !
 ### Public opinion on climate change: a barrier that is part of the solution

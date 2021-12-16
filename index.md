@@ -39,15 +39,15 @@ We can observe in this first plot an overall **increased tendency of quotes rela
 Interestingly, **the end of the year 2009 also shows a higher occurence**. Several hypothesis could explain that phenomenon:
 - First, at that time, 2009 was tied for the **second warmest year in the modern record** by the NASA[^2], which could explain why global warming was a particularly hot topic during this time period.<br />
 - It is also possible that the QuoteBank dataset contains more quotes from December 2009 than from other time periods, thereby yielding a bias.
-<br />
+
 ### And through the months ?
 An other interesting fact that one can observe from this plot is the **increase in the occurence of climate change-related quotes at the end of certain years**. Let's have a closer look at this:
-<br />
+
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="100%" height="550" src="html/occurence_month.html"></iframe>
 
 <div class="withSidenote" markdown="1">
 
-<br /> If we look more precisely at the plot above, there only is a significant increase at the end of the year in 2009 and 2015. This could be completely random or partialy explained by the arguments cited above in the case of 2009. Interestingly, **2015 belonged to the top 3 warmest years on record until 2019**[^3]. This could explain the peak in global warming-related quotes at the end of 2015.
+If we look more precisely at the plot above, there only is a significant increase at the end of the year in 2009 and 2015. This could be completely random or partialy explained by the arguments cited above in the case of 2009. Interestingly, **2015 belonged to the top 3 warmest years on record until 2019**[^3]. This could explain the peak in global warming-related quotes at the end of 2015.
 
 <figure class="sidenote">
     <img src="img/10 hottest years.jpg">
@@ -57,7 +57,7 @@ An other interesting fact that one can observe from this plot is the **increase 
 
 # The worst the situation gets, the more interest on the topic
 ### A correlation with the increase in global temperature ?
-To understand whether the observed increase in climate related-quotes through the years is in fact due to the aggravation of the situation, we ploted the correlation between the monthly temperature anomaly (refering to the difference from the average, normal, temperature) and the monthly occurence of quotes mentioning climate change. To do so, we retrived the [HadCRUT5 dataset of global historical surface temperature anomalies](https://www.metoffice.gov.uk/hadobs/hadcrut5/data/current/download.html).<br />
+To understand whether the observed increase in climate related-quotes through the years is in fact due to the aggravation of the situation, we ploted the correlation between the monthly temperature anomaly (refering to the difference from the average, normal, temperature) and the monthly occurence of quotes mentioning climate change. To do so, we retrived the [HadCRUT5 dataset of global historical surface temperature anomalies](https://www.metoffice.gov.uk/hadobs/hadcrut5/data/current/download.html).
 
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="100%" height="550" src="html/correlation_temperature.html"></iframe>
 

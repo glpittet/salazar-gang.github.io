@@ -7,20 +7,21 @@ cover-img: img/climate-collage.jpg
 ### Public opinion on climate change: a barrier that is part of the solution
 Nowadays, man-made climate change and global warming have become an emergency that goes far beyond national boundaries and certainly represents one of the **greatest challenges humankind has ever faced**. In fact, because of direct consequences like heat waves, more frequent and intense storms, rising sea levels, warming of the oceans and many others, humans, but most importantly animals, face new challenges for survival. In order to limit as much as possible the damages, **concrete actions need to be undertaken**.<br />
 <br />
-However, still **~30% of the worldwide population views climate change as a minor threat or not a threat at all** and do not consider the matter as an emergency[^1]. This constitutes a huge barrier in adressing climate change as shifting the public opinion is needed to encourage climate-friendly behaviours. Therefore, changing public opinion may be a huge part of the solution but also one of the greatest challenges. This is why **identifying the factors that influence public views on climate change is a critical step** to urge politics to propose solutions on the matter and convince the population to act daily. Furthermore, **visibility of the topic in the media is crucial** to sensitize the population on the severity of the situation.
+However, still **~30% of the worldwide population views climate change as a minor threat or not a threat at all** and do not consider the matter as an emergency[^1]. This constitutes a huge barrier in adressing climate change as shifting the public opinion is needed to encourage climate-friendly behaviours. Therefore, changing public opinion may be a huge part of the solution but also one of the greatest challenges. This is why **identifying the factors that influence public views on climate change is a critical step** to urge politics to propose solutions on the matter and convince the population to act daily. One of these influences certainly is the **media coverage of the topic** that sensitizes the population on the severity of the situation.
+
+>Public opinion can be influential. The media can be influential. _Noam Chomsky
 
 <figure class="center">
     <img src="img/Public_opinions.svg.png">
     <figcaption><a href="https://climatecommunication.yale.edu/wp-content/uploads/2021/06/international-climate-opinion-february-2021d.pdf"><em>Figure 1.</em></a> Yale Climate Connection-reported survey in 31 countries of public opinion on the causes of climate change. </figcaption>
 </figure>
 <br />
+
 This data story explores the [QuoteBank dataset](https://zenodo.org/record/4277311#.YboGUC_pOPQ) to evaluate the occurence of the topic of climate change in the English news as well as its correlation with several parameters to better understand its influence on the population's interest on the matter. We pushed our analysis further by assessing the influence of the social context of the speakers (age, occupaction, political party, academic degree, nationality…) on the opinions on climate change using sentimental analysis.
 
 # How much is climate change mentioned in the news ?
 ### An increased tendency through the years...
-This question can seem quite obvious and simple to answer. However, to have a better idea on the importance the news give to the topic and the influence they have on the public opinion, we need to first find out how much climate change is mentioned and whether it correlates with the gravity of the situation. Always remember:
-
->If they talk about it, they care.
+This question can seem quite obvious and simple to answer. However, to have a better idea on the importance the news give to the topic and the influence they have on the public opinion, we need to first find out how much climate change is mentioned and whether it correlates with the gravity of the situation.
 
 To answer this question, we first sorted the quotes of the QuoteBank dataset in order to keep only the quotes related to climate change by **keyword search**. the following keywords were chosen by our wonderful team:
 - Climate change

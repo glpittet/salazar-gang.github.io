@@ -35,7 +35,7 @@ An other interesting fact that one can observe from this plot is the increase in
 
 <div class="withSidenote" markdown="1">
 
-<br /> If we look more precisely at the plot above, there only is a significant increase at the end of the year in 2009 and 2015. This could be completely random or partialy explained by the arguments cited above in the case of 2009. Interestingly, 2015 belongs to the top 3 warmest years on record until 2019[^3]. This could explain the pick in global warming-related quotes at the end of 2015.
+<br /> If we look more precisely at the plot above, there only is a significant increase at the end of the year in 2009 and 2015. This could be completely random or partialy explained by the arguments cited above in the case of 2009. Interestingly, 2015 belongs to the top 3 warmest years on record until 2019[^3]. This could explain the peak in global warming-related quotes at the end of 2015.
 
 <figure class="sidenote">
     <img src="img/10 hottest years.jpg">

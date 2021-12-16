@@ -18,11 +18,9 @@ We therefore decided to first evaluate the occurence of climate change and globa
 
 # How much is climate change mentioned in the news ?
 ### An increased tendency through the years...
-To have a better idea on the importance the news give to the topic of global warming and climate change, we asked ourselves an obvious but important question:
-<br /> 
+To have a better idea on the importance the news give to the topic of global warming and climate change, we asked ourselves an obvious but important question:<br /> 
 <center><b>How much do speakers talk about climate change in the news ? Do they talk about it at all ?</b></center>
-<br />
-To answer these questions, we first sorted the quotes of the QuoteBank dataset in order to keep only the quotes related to climate change by keyword search. We were then able to visualize the occurence of climate-related quotes through the years, from 2008 to 2020:
+<br />To answer these questions, we first sorted the quotes of the QuoteBank dataset in order to keep only the quotes related to climate change by keyword search. We were then able to visualize the occurence of climate-related quotes through the years, from 2008 to 2020:
 
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="100%" height="550" src="html/occurence_year.html"></iframe>
 
@@ -32,9 +30,12 @@ Because global warming is becoming a more and more serious problem in our societ
 <br />
 
 ### And through the months ?
-An other interesting fact that one can observe from this plot is the increase in the occurence of climate-related quotes at the end of the year. Let's have a closer look at this:
+An other interesting fact that one can observe from this plot is the increase in the occurence of climate-related quotes at the end of the year. But is it really the case ? Let's have a closer look at this:
 <br />
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="100%" height="550" src="html/occurence_month.html"></iframe>
+<br /> If we look more precisely at the plot above, there only is a significant increase at the end of the year in 2009 and 2015. This could be completely random or partly explained with the arguments cited above for 2009.
+
+### A correlation with the increase in global temperature ?
 
 # Who talks about climate change ?
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="100%" height="550" src="html/speaker_characteristics.html"></iframe>

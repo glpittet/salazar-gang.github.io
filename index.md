@@ -9,7 +9,7 @@ Nowadays, man-made climate change and global warming have become an emergency th
 <br />
 However, still **~30% of the worldwide population views climate change as a minor threat or not a threat at all** and do not consider the matter as an emergency[^1]. This constitutes a huge barrier in adressing climate change as shifting the public opinion is needed to encourage climate-friendly behaviours. Therefore, changing public opinion may be a huge part of the solution but also one of the greatest challenges. This is why **identifying the factors that influence public views on climate change is a critical step** to urge politics to propose solutions on the matter and convince the population to act daily. One of these influences certainly is the **media coverage of the topic** that sensitizes the population on the severity of the situation.
 
->Public opinion can be influential. The media can be influential. _Noam Chomsky_
+>Public opinion can be influential. The media can be influential. <br />_Noam Chomsky_
 
 <figure class="center">
     <img src="img/Public_opinions.svg.png">

@@ -46,6 +46,7 @@ An other interesting fact that one can observe from this plot is the increase in
 
 # Who talks about climate change ?
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="100%" height="550" src="html/speaker_characteristics.html"></iframe>
+
 # References
 
 [^1]: [Pew research center, *A look at how people around the world view climate change*, 2019](https://www.pewresearch.org/fact-tank/2019/04/18/a-look-at-how-people-around-the-world-view-climate-change/)

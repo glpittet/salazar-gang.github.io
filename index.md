@@ -22,32 +22,32 @@ This question can seem quite obvious and simple to answer. However, to have a be
 
 >If they talk about it, they care.
 
-<br />To answer this question, we first sorted the quotes of the QuoteBank dataset in order to keep only the quotes related to climate change by keyword search. the following keywords were chosen by our wonderful team:
-[x] Climate change
-[x] Global warming
-[x] Greenhouse effect
-[x] Greenhouse gas
-[x] Climate crisis
-[x] Climate emergency
-[x] Climate breakdown
+<br />To answer this question, we first sorted the quotes of the QuoteBank dataset in order to keep only the quotes related to climate change by **keyword search**. the following keywords were chosen by our wonderful team:
+- Climate change
+- Global warming
+- Greenhouse effect
+- Greenhouse gas
+- Climate crisis
+- Climate emergency
+- Climate breakdown
 
 We were then able to visualize the occurence of climate change-related quotes through the years, from 2008 to 2020:
 
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="100%" height="550" src="html/occurence_year.html"></iframe>
 
-We can observe in this first plot an overall increased tendency of quotes related to climate change through the years. This result isn't a surprise for us as we hypothesize that the more the situation worsens, the more the news talk about it. We'll come back to this later.<br /> 
-Interestingly, the end of the year 2009 also shows a higher occurence. Several hypothesis could explain that phenomenon:
-- First, at that time, 2009 was tied for the second warmest year in the modern record by the NASA[^2], which could explain why global warming was a particularly hot topic during this time period.<br />
+We can observe in this first plot an overall **increased tendency of quotes related to climate change through the years**. This result isn't a surprise for us as we hypothesize that the more the situation worsens, the more the news talk about it. We'll come back to this later.<br /> 
+Interestingly, **the end of the year 2009 also shows a higher occurence**. Several hypothesis could explain that phenomenon:
+- First, at that time, 2009 was tied for the **second warmest year in the modern record** by the NASA[^2], which could explain why global warming was a particularly hot topic during this time period.<br />
 - It is also possible that the QuoteBank dataset contains more quotes from December 2009 than from other time periods, thereby yielding a bias.
 <br />
 ### And through the months ?
-An other interesting fact that one can observe from this plot is the increase in the occurence of climate change-related quotes at the end of certain years. Let's have a closer look at this:
+An other interesting fact that one can observe from this plot is the **increase in the occurence of climate change-related quotes at the end of certain years**. Let's have a closer look at this:
 <br />
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="100%" height="550" src="html/occurence_month.html"></iframe>
 
 <div class="withSidenote" markdown="1">
 
-<br /> If we look more precisely at the plot above, there only is a significant increase at the end of the year in 2009 and 2015. This could be completely random or partialy explained by the arguments cited above in the case of 2009. Interestingly, 2015 belongs to the top 3 warmest years on record until 2019[^3]. This could explain the peak in global warming-related quotes at the end of 2015.
+<br /> If we look more precisely at the plot above, there only is a significant increase at the end of the year in 2009 and 2015. This could be completely random or partialy explained by the arguments cited above in the case of 2009. Interestingly, **2015 belonged to the top 3 warmest years on record until 2019**[^3]. This could explain the peak in global warming-related quotes at the end of 2015.
 
 <figure class="sidenote">
     <img src="img/10 hottest years.jpg">
@@ -61,7 +61,7 @@ To understand whether the observed increase in climate related-quotes through th
 
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="100%" height="550" src="html/correlation_temperature.html"></iframe>
 
-Even if the correlation isn't very high, we can still observe a positive correlation which is consistent with the hypothesis that the more the situation gets worse, the more the news talk about it.
+Even if the correlation isn't very high, we can still observe a **positive correlation** which is consistent with the hypothesis that **the more the situation gets worse, the more the news talk about it**.
 
 ### The news talk about it, people google it
 Furthermore,

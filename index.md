@@ -70,14 +70,22 @@ To evaluate the influence of the media on public opinion, we thought of comparin
 
 <figure class="sidenote">
     <img src="img/google-trend.jpg">
-    <figcaption><a href="https://trends.google.fr/trends/explore?date=2009-01-01%202019-12-31&q=climate%20change"><em>Figure 3.</em></a> Google trend of climate change searches from 2009 t0 2019.</figcaption>
+    <figcaption><a href="https://trends.google.fr/trends/explore?date=2009-01-01%202019-12-31&q=climate%20change"><em>Figure 3.</em></a> Google trend of climate change searches from 2009 to 2019.</figcaption>
 </figure>
 </div>
 
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="100%" height="550" src="html/correlation_google.html"></iframe>
 
+<div class="withSidenote" markdown="1">
+
 Interestingly, we can observe a **significant correlation** with a R<sup>2</sup> of ~0.61, meaning that people do **tend to get informed on subjects that the news cover**. Surprisingly, we can even notice that the highest web search trend corresponds to the highest climate change related-quote occurence, in September 2019. Did a particular event happened in September 2019 ? **Yes absolutely!**
 In fact, the Global Week for Future, which were a series of international strikes and protests to demand action be taken to address climate change, took place from 20–27 September 2019[^4]. This explains perfectly the boom in quotes occurence and google searches on the matter. 
+
+<figure class="sidenote">
+    <img src="img/2019-strike.jpg">
+    <figcaption><em>Figure 4.</em>The Global Week for Future of September 2019.</figcaption>
+</figure>
+</div>
 
 # Who talks about climate change ?
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="100%" height="550" src="html/speaker_characteristics.html"></iframe>

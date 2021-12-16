@@ -33,7 +33,7 @@ Because global warming is becoming a more and more serious problem in our societ
 
 <figure class="sidenote">
     <img src="img/10 hottest years.jpg">
-    <figcaption><em>Figure 1.</em> Top 10 hottest years until 2019.</figcaption>
+    <figcaption><a href="https://www.climatecentral.org/gallery/graphics/top-10-warmest-years-on-record"><em>Figure 2.</em></a> Top 10 hottest years until 2019.</figcaption>
 </figure>
 </div>
 

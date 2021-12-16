@@ -6,7 +6,7 @@ cover-img: img/climate-collage.jpg
 # Climate change is a global emergency !
 ### Public opinion on climate change: a barrier that is part of the solution
 Nowadays, man-made climate change and global warming have become an emergency that goes far beyond national boundaries and certainly represents one of the **greatest challenges humankind has ever faced**. In fact, because of direct consequences like heat waves, more frequent and intense storms, rising sea levels, warming of the oceans and many others, humans, but most importantly animals, face new challenges for survival. In order to limit as much as possible the damages, **concrete actions need to be undertaken**.<br />
-<br />
+
 However, still **~30% of the worldwide population views climate change as a minor threat or not a threat at all** and do not consider the matter as an emergency[^1]. This constitutes a huge barrier in adressing climate change as shifting the public opinion is needed to encourage climate-friendly behaviours. Therefore, changing public opinion may be a huge part of the solution but also one of the greatest challenges. This is why **identifying the factors that influence public views on climate change is a critical step** to urge politics to propose solutions on the matter and convince the population to act daily. One of these influences certainly is the **media coverage of the topic** that sensitizes the population on the severity of the situation.
 
 >Public opinion can be influential. The media can be influential. <br />_Noam Chomsky_
@@ -47,7 +47,7 @@ An other interesting fact that one can observe from this plot is the **increase 
 
 <div class="withSidenote" markdown="1">
 
-If we look more precisely at the plot above, there only is a significant increase at the end of the year in 2009 and 2015. This could be completely random or partialy explained by the arguments cited above in the case of 2009. Interestingly, **2015 belonged to the top 3 warmest years on record until 2019**[^3]. This could explain the peak in global warming-related quotes at the end of 2015.
+If we look more precisely at the plot above, there only is a significant increase at the end of the year in 2009 and 2015. This could be completely random or partialy explained by the arguments cited above in the case of 2009. Interestingly, **2015 belonged to the top 3 warmest years on record until 2019**[^3]. This could explain the peak in global warming-related quotes at the end of 2015. More generally, media coverage of climate change tends to increase at the end of the year while annual reports of global temperature anomalies and other data are published at that moment. We are therefore not surprised by these results.
 
 <figure class="sidenote">
     <img src="img/10 hottest years.jpg">
@@ -61,11 +61,14 @@ To understand whether the observed increase in climate related-quotes through th
 
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="100%" height="550" src="html/correlation_temperature.html"></iframe>
 
-Even if the correlation isn't very high, we can still observe a **positive correlation** which is consistent with the hypothesis that **the more the situation gets worse, the more the news talk about it**.
+Even if the correlation isn't significantly high, we can still observe a **positive correlation** with a R^2 value of ~0.12 which stays consistent with the hypothesis that **the more the situation gets worse, the highest chance the news will talk about it**. Yet, this correlation isn't strong enough to conclude anything relevant. 
 
 ### The news talk about it, people google it
-Furthermore,
+To evaluate the influence of the media on public opinion, we thought of comparing the [Google trends of climate change-related web searches](https://trends.google.fr/trends/explore?date=2009-01-01%202019-12-31&q=climate%20change) with the occurence of the quotes on the topic to assess whether media coverage could encourage people to get more informed on the subject.
+
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="100%" height="550" src="html/correlation_google.html"></iframe>
+
+Interestingly, we can observe a **significant correlation** with a R^2 of ~0.61, meaning that people do **tend to get informed on subjects that the news cover**. Surprisingly, we can even notice that the highest web search trend corresponds to the highest climate change related-quote occurence, in September 2019. Did something particular happened in September 2019 ?
 
 # Who talks about climate change ?
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="100%" height="550" src="html/speaker_characteristics.html"></iframe>

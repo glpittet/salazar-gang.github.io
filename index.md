@@ -98,11 +98,11 @@ To see whether the social context influences the opinion on climate change, we f
 - **Nationality**
 
 Except for the age that was calculated by substracting the birth date to the quote date, these informations about speakers where provided to us by our teaching assitants who extracted them from the [Wikidata knowledge base](https://www.wikidata.org/wiki/Wikidata:Main_Page). 
-We first simply plotted the top 10 quotes' occurencies covering the climate change topic based on the characteristics of their corresponding speaker.
+We first simply plotted the top 10 quotes' occurences covering the climate change topic based on the characteristics of their corresponding speaker.
 
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="100%" height="550" src="html/speaker_characteristics.html"></iframe>
 
-We can observe that quotes related to climate change are said most frequently by the following speaker profile:
+We can observe that the most common overall speaker profile in the subset of climate change-related quotes is the following:
 - **Age:** *50-70*
 - **Occupation:** *Politician*
 - **Political party:** *Democratic*
@@ -172,8 +172,13 @@ Let's see whether we can conclude anything on the influence of the speaker's cha
 However, we would like to emphasize the fact that using a positive/negative model maybe **wasn't the most appropriated model to classify climate change-related quotes**. In fact, even if we can see some tendencies that could make sense, most categories of speakers' characteristics have as many positive quotes as negative ones. Therefore, it is really hard based on these data to conclude whether in fact some of the features could influence the opinion on climate change. Maybe using a model based on **optimist vs pessimist** would have made more sense in the case of the topic of climate change. Unfortunaetly, we didn't have the time to test this other model (and that's sad). 
 
 # What have we learned ?
+Sadly, you have already reached the end of this data story. But what have we learned ?
 
-
+- Climate change-related quotes' occurence **increased among the years** and peaks in years 2009 and 2015 could be explained by the fact that they belong to the **top 10 hottest years on record until 2019**.
+-  The increased occurence through the years slightly correlates with the increase in temperatures. However, it **highly correlates with the Google trends on climate change related web searches**. The peak in September 2019 in quotes' occurence as well as Google searches is certainly due to the **Global week for future** that took place at that time.
+-  The most **common profile of speaker in English news** is a 50-70 year old politician from the USA Democtratic party that has a Bachelor of Arts or PhD in Law.
+-  The **winner of the profile that talks the most about climate change** is a climate activist that has a PhD of Sciences and is South Korean. If the person is American, its most likely party is the Nationalist People’s Coalition.
+-  Sentiment analysis could show some relevant informations but wasn't overall the best model to analyse the influence of speakers' characteristics on the opinion on climate change. **Further improvements could have been done**.
 
 # References
 

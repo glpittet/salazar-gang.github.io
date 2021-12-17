@@ -88,9 +88,35 @@ In fact, the **Global Week for Future**, which were a series of international st
 </div>
 
 # Who talks about climate change ?
+### A description of the most common speaker profile...
+To see whether the social context influences the opinion on climate change, we first wanted to have a glance on who are the speakers talking the most about it on the English news without looking at the opinion on the matter. To do so, we decided to work with **5 main characteristics**:
+
+- Age of the speaker
+- Occupation (job)
+- Political party (in the USA)
+- Academic degree
+- Nationality
+
+These informations about speakers where provided to us by our teaching assitants who extracted them from the [Wikidata knowledge base](https://www.wikidata.org/wiki/Wikidata:Main_Page).
+We first simply plotted the occurence of quotes covering the climate change topic based on the characteristics of their corresponding speaker.
+
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="100%" height="550" src="html/speaker_characteristics.html"></iframe>
 
-#The influence of social context: a sentimental analysis ?
+We can observe that quotes related to climate change are said most frequently by the following speaker profile:
+- Age: *50-70
+- Occupation: *Politician
+- Political party: *Democratic
+- Academic degree: *Bachelor of Arts or Juris doctor
+- Nationality: *USA
+
+This can be explained by the fact that, first, QuoteBank is a corpus of English newspapers meaning that the USA represent the majority of speakers here. Secondly, people that tend the most to be quoted on news are politicians. We don't know about you, but in our case we do not know a lot of politicians younger than 50 years old or older than 70. Finally, the dominant party in the USA is the Democratic party and it is therefore not surprising that most quotes belong to democratic politicians. 
+It is important to emphasise here that these results **do not indicate the proportion of climate-related quotes among all cited quotes** but rather show what is the most frequent profile of Quotebank speakers in the subset of climate change-related quotes. We therefore need to plot the proportion of climate related-quotes among all cited quotes by the speaker to really get relevant results in analysing the influence of social context on the interest on climate change.
+
+### Quotes on climate change VS the rest of them
+
+
+# The influence of social context: a sentimental analysis ?
+
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="100%" height="550" src="html/sentimental_analysis.html"></iframe>
 
 # References

@@ -117,10 +117,17 @@ To see who really talks about climate change the most, we first ploted the propo
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="100%" height="550" src="html/proportions.html"></iframe>
 As expected, the values change dramatically and the results a highly relevant:
 
+<div class="withSidenote" markdown="1">
 - **Occupation**: As highly expected, the speakers that talk the most about climate change are environmentalists.
 - **Political party**: The parties that talk the most about climate change are the Labour party and the Nationalist People's coalition. Interestingly and without any surprise, the Democratic party talks more about it than the Republican.
 - **Academic degree**: Again, as expected, holders of a Doctorate of Sciences are the one that cover the most climate change in the news.
 - **Nationality**: Finally, South Koreans are the most interested in climate change. 
+
+<figure class="sidenote">
+    <img src="img/google-trend.jpg">
+    <figcaption><a href="https://www.vox.com/2014/11/11/7187057/global-warming-free-market-solution-republican-skepticism"><em>Figure 5.</em></a> Democrats and Republicans votes on "Is climate change a serious problem ?".</figcaption>
+</figure>
+</div>
 
 We then ploted the top 15 proportions in each 4 characteristics to see who's the final winner that covers the most climate change in English newspapers:
 
@@ -157,7 +164,7 @@ Let's see whether we can conclude anything on the influence of the speaker's cha
 
 <figure class="sidenote">
     <img src="img/Sanna_Marin.jpg">
-    <figcaption><a href="https://www.theguardian.com/world/2019/dec/09/finland-anoints-sanna-martin-34-as-worlds-youngest-serving-prime-minister"><em>Figure 5.</em></a> Sanna Marin, 34 years old, is the world's youngest serving prime minister (Finland).</figcaption>
+    <figcaption><a href="https://www.theguardian.com/world/2019/dec/09/finland-anoints-sanna-martin-34-as-worlds-youngest-serving-prime-minister"><em>Figure 6.</em></a> Sanna Marin, 34 years old, is the world's youngest serving prime minister (Finland).</figcaption>
 </figure>
 </div>
 

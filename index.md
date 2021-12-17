@@ -90,6 +90,9 @@ In fact, the **Global Week for Future**, which were a series of international st
 # Who talks about climate change ?
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="100%" height="550" src="html/speaker_characteristics.html"></iframe>
 
+#The influence of social context: a sentimental analysis ?
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="100%" height="550" src="html/sentimental_analysis.html"></iframe>
+
 # References
 
 [^1]: [Pew research center, *A look at how people around the world view climate change*, 2019](https://www.pewresearch.org/fact-tank/2019/04/18/a-look-at-how-people-around-the-world-view-climate-change/)

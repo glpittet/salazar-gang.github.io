@@ -128,11 +128,19 @@ We therefore ploted the percentage of positive versus negative quotes for the to
 
 Let's see whether we can conclude anything on the influence of the speaker's characteristics on climate change opinion:
 
+<div class="withSidenote" markdown="1">
+
 - **Age:** younger speakers seem to be more negative about climate change than older speakers (not enough speakers between 80-100 to have a relevant information). This isn't very surprising to us as younger people are more aware of the gravity of the situation than older people in general.
 - **Occupation:** Politician and diplomats have higher positive points of view about climate, mostly because they are smooth speakers and also because they do not seem to see climate change as threathening as journalists for example. 
 - **Political party:** As expected, democrats are more positive than republicans about climat change.
 - **Academic degree:** People with a bachelor of science seem to be more negative about climate change as well as people with a Master of Business administration. This could be explained by the fact that these speakers have more knowledge on the topic and are more aware of the matter. However, it seems difficult here to conclude any significant influence of Academic degree on opinion on climate change.
 - **Nationality:** South Korea seems to have a more significant positive point of view about climat change compared to other countries. This could make sense while South Koreans tend to be indirect in their communication style[^5]. 
+
+<figure class="sidenote">
+    <img src="img/Sanna_Marin.jpg">
+    <figcaption><a href="https://www.theguardian.com/world/2019/dec/09/finland-anoints-sanna-martin-34-as-worlds-youngest-serving-prime-minister"><em>Figure 5.</em></a> Sanna Marin, 34 years old, is the world's youngest serving prime minister (Finland).</figcaption>
+</figure>
+</div>
 
 # References
 

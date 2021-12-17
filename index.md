@@ -113,6 +113,25 @@ This can be explained by the fact that, first, QuoteBank is a corpus of English 
 It is important to emphasise here that these results **do not indicate the proportion of climate-related quotes among all cited quotes** but rather show what is the most frequent profile of Quotebank speakers in the subset of climate change-related quotes. We therefore need to plot the proportion of climate related-quotes among all cited quotes by the speaker to really get relevant results in analysing the influence of social context on the interest on climate change.
 
 ### Quotes on climate change VS the rest of them
+To see who really talks about climate change the most, we first ploted the proportions of climate change-related quotes compared to all cited quotes for the last 4 speakers' characteristics, keeping the exact same features as the last plot to visualize the difference between proportion and occurence. 
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="100%" height="550" src="html/proportions.html"></iframe>
+As expected, the values change dramatically and the results a highly relevant:
+
+- **Occupation**: As highly expected, the speakers that talk the most about climate change are environmentalists.
+- **Political party**: The parties that talk the most about climate change are the Labour party and the Nationalist People's coalition. Interestingly and without any surprise, the Democratic party talks more about it than the Republican.
+- **Academic degree**: Again, as expected, holders of a Doctorate of Sciences are the one that cover the most climate change in the news.
+- **Nationality**: Finally, South Koreans are the most interested in climate change. 
+
+We then ploted the top 15 proportions in each 4 characteristics to see who's the final winner that covers the most climate change in English newspapers:
+
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="100%" height="550" src="html/top_15_proportions.html"></iframe>
+
+Without any surpirse, the profile of the speakers that talk the most about climate change is the following:
+
+- **Occupation:** *Climate activist*
+- **Political party:** *Nationalist People's Coalition*
+- **Academic degree:** *Doctor of Sciences*
+- **Nationality:** *South Korea*
 
 
 # The influence of social context on opinions of climate change: a sentiment analysis

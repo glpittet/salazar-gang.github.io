@@ -57,7 +57,7 @@ If we look more precisely at the plot above, there only is a significant increas
 
 # The worst the situation gets, the more interest on the topic
 ### A correlation with the increase in global temperature ?
-To understand whether the observed increase in climate related-quotes through the years is in fact due to the aggravation of the situation, we ploted the correlation between the monthly temperature anomaly (refering to the difference from the average, normal, temperature) and the monthly occurence of quotes mentioning climate change. To do so, we retrived the [HadCRUT5 dataset of global historical surface temperature anomalies](https://www.metoffice.gov.uk/hadobs/hadcrut5/data/current/download.html).
+To understand whether the observed increase in climate related-quotes through the years is in fact due to the aggravation of the situation, we ploted the correlation between the monthly temperature anomaly (refering to the difference from the average, normal, temperature) and the monthly occurence of quotes mentioning climate change. To do so, we retrieved the [HadCRUT5 dataset of global historical surface temperature anomalies](https://www.metoffice.gov.uk/hadobs/hadcrut5/data/current/download.html).
 
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="100%" height="550" src="html/correlation_temperature.html"></iframe>
 
@@ -97,7 +97,7 @@ To see whether the social context influences the opinion on climate change, we f
 - **Academic degree**
 - **Nationality**
 
-Expect for the age that was calculated by substracting the birth date to the quote date, these informations about speakers where provided to us by our teaching assitants who extracted them from the [Wikidata knowledge base](https://www.wikidata.org/wiki/Wikidata:Main_Page). 
+Except for the age that was calculated by substracting the birth date to the quote date, these informations about speakers where provided to us by our teaching assitants who extracted them from the [Wikidata knowledge base](https://www.wikidata.org/wiki/Wikidata:Main_Page). 
 We first simply plotted the top 10 quotes' occurencies covering the climate change topic based on the characteristics of their corresponding speaker.
 
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="100%" height="550" src="html/speaker_characteristics.html"></iframe>
@@ -113,7 +113,7 @@ This can be explained by the fact that, first, QuoteBank is a corpus of English 
 It is important to emphasise here that these results **do not indicate the proportion of climate-related quotes among all cited quotes** but rather show what is the most frequent profile of Quotebank speakers in the subset of climate change-related quotes. We therefore need to plot the proportion of climate related-quotes among all cited quotes by the speaker to really get relevant results in analysing the influence of social context on the interest on climate change.
 
 ### Quotes on climate change VS the rest of them
-To see who really talks about climate change the most, we first ploted the proportions of climate change-related quotes compared to all cited quotes for the last 4 speakers' characteristics, keeping the exact same features as the last plot to visualize the difference between proportion and occurence. 
+To see who really talks about climate change the most, we first ploted the **proportions of climate change-related quotes compared to all cited quotes** for the last 4 speakers' characteristics, keeping the exact same features as the last plot to visualize the difference between proportion and occurence. 
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="100%" height="550" src="html/proportions.html"></iframe>
 As expected, the values change dramatically and the results a highly relevant:
 

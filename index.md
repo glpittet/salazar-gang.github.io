@@ -119,14 +119,14 @@ It is important to emphasise here that these results **do not indicate the propo
 ### Why sentiment analysis ? 
 When trying to understand the feelings or opinions that underlie a text or quote, **sentiment analysis** directly comes to mind. To analyse whether the speakers' characteristics mentioned above could influence the opinions on climate change, we decided to use a pre-trained model from hugginface which was run on all the quotes that clasifies quotes as **positive or negative**. For example the following quotes are good examples of what positive or negative means:
 
-- *"No challenge poses a greater threat to future generations than climate change"* - Barack Obama --> negative
-- *"Who can stop climate ? We can. You and you and you, and me."* - Desmond Tutu --> positive
+- *"No challenge poses a greater threat to future generations than climate change"* - Barack Obama = **negative**
+- *"Who can stop climate ? We can. You and you and you, and me."* - Desmond Tutu = **positive**
 
 We therefore ploted the percentage of positive versus negative quotes for the top 10 occurencies for each characteristic. 
 
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="100%" height="550" src="html/sentimental_analysis.html"></iframe>
 
-Let's summarize whether we can conclude anything on the influence of the speaker's characteristics on climate change opinion:
+Let's see whether we can conclude anything on the influence of the speaker's characteristics on climate change opinion:
 
 - **Age:** younger speakers seem to be more negative about climate change than older speakers (not enough speakers between 80-100 to have a relevant information). This isn't very surprising to us as younger people are more aware of the gravity of the situation than older people in general.
 - **Occupation:** Politician and diplomats have higher positive points of view about climate, mostly because they are smooth speakers and also because they do not seem to see climate change as threathening as journalists for example. 

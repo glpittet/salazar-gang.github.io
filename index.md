@@ -131,8 +131,8 @@ Let's summarize whether we can conclude anything on the influence of the speaker
 - **Age:** younger speakers seem to be more negative about climate change than older speakers (not enough speakers between 80-100 to have a relevant information). This isn't very surprising to us as younger people are more aware of the gravity of the situation than older people in general.
 - **Occupation:** Politician and diplomats have higher positive points of view about climate, mostly because they are smooth speakers and also because they do not seem to see climate change as threathening as journalists for example. 
 - **Political party:** As expected, democrats are more positive than republicans about climat change.
-- **Academic degree:** It seems that the academic degree doesn't have a tendance for sentiment analysis, thus we can say that the academic degree doesn't have a high influence on the point of view about climate change
-- **Nationality:** South Korea seems to have a more significant positive point of view about climat change compared to other countries. This could make sense while South Koreans may have a smoother way of talking with less "strong" words. 
+- **Academic degree:** People with a bachelor of science seem to be more negative about climate change as well as people with a Master of Business administration. This could be explained by the fact that these speakers have more knowledge on the topic and are more aware of the matter. However, it seems difficult here to conclude any significant influence of Academic degree on opinion on climate change.
+- **Nationality:** South Korea seems to have a more significant positive point of view about climat change compared to other countries. This could make sense while South Koreans tend to be indirect in their communication style[^5]. 
 
 # References
 
@@ -143,3 +143,5 @@ Let's summarize whether we can conclude anything on the influence of the speaker
 [^3]: [Climate central, *Top 10 warmest years on record*, 2019](https://www.climatecentral.org/gallery/graphics/top-10-warmest-years-on-record)
 
 [^4]: [The Guardian, *Climate crisis: 6 million people join latest wave of global protests*, 2019](https://www.theguardian.com/environment/2019/sep/27/climate-crisis-6-million-people-join-latest-wave-of-worldwide-protests)
+
+[^5]: [Cultural atlas, *South Korean culture - Communication*, 2021](https://culturalatlas.sbs.com.au/south-korean-culture/south-korean-culture-communication)

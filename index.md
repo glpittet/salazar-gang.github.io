@@ -124,7 +124,7 @@ As expected, the values change dramatically and the results a highly relevant:
 - **Nationality**: Finally, South Koreans are the most interested in climate change. 
 
 <figure class="sidenote">
-    <img src="img/google-trend.jpg">
+    <img src="img/votes.jpeg">
     <figcaption><a href="https://www.vox.com/2014/11/11/7187057/global-warming-free-market-solution-republican-skepticism"><em>Figure 5.</em></a> Democrats and Republicans votes on "Is climate change a serious problem ?".</figcaption>
 </figure>
 </div>

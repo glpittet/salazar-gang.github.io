@@ -142,7 +142,12 @@ Let's see whether we can conclude anything on the influence of the speaker's cha
 </figure>
 </div>
 
+### Is it really relevant ?
 However, we would like to emphasize the fact that using a positive/negative model maybe **wasn't the most appropriated model to classify climate change-related quotes**. In fact, even if we can see some tendencies that could make sense, most categories of speakers' characteristics have as many positive quotes as negative ones. Therefore, it is really hard based on these data to conclude whether in fact some of the features could influence the opinion on climate change. Maybe using a model based on **optimist vs pessimist** would have made more sense in the case of the topic of climate change. Unfortunaetly, we didn't have the time to test this other model (and that's sad). 
+
+# What have we learned ?
+
+
 
 # References
 

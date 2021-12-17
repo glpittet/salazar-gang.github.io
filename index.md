@@ -97,7 +97,7 @@ To see whether the social context influences the opinion on climate change, we f
 - **Academic degree**
 - **Nationality**
 
-These informations about speakers where provided to us by our teaching assitants who extracted them from the [Wikidata knowledge base](https://www.wikidata.org/wiki/Wikidata:Main_Page).
+Expect for the age that was calculated by substracting the birth date to the quote date, these informations about speakers where provided to us by our teaching assitants who extracted them from the [Wikidata knowledge base](https://www.wikidata.org/wiki/Wikidata:Main_Page). 
 We first simply plotted the top 10 quotes' occurencies covering the climate change topic based on the characteristics of their corresponding speaker.
 
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="100%" height="550" src="html/speaker_characteristics.html"></iframe>
@@ -141,6 +141,8 @@ Let's see whether we can conclude anything on the influence of the speaker's cha
     <figcaption><a href="https://www.theguardian.com/world/2019/dec/09/finland-anoints-sanna-martin-34-as-worlds-youngest-serving-prime-minister"><em>Figure 5.</em></a> Sanna Marin, 34 years old, is the world's youngest serving prime minister (Finland).</figcaption>
 </figure>
 </div>
+
+However, we would like to emphasize the fact that using a positive/negative model maybe **wasn't the most appropriated model to classify climate change-related quotes**. In fact, even if we can see some tendencies that could make sense, most categories of speakers' characteristics have as many positive quotes as negative ones. Therefore, it is really hard based on these data to conclude whether in fact some of the features could influence the opinion on climate change. Maybe using a model based on **optimist vs pessimist** would have made more sense in the case of the topic of climate change. Unfortunaetly, we didn't have the time to test this other model (and that's sad). 
 
 # References
 

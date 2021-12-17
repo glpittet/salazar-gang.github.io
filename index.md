@@ -129,7 +129,7 @@ As expected, the values change dramatically and the results a highly relevant:
 </figure>
 </div>
 
-We then ploted the top 15 proportions in each 4 characteristics to see who's the final winner that covers the most climate change in English newspapers:
+We then ploted the **top 15 proportions in each 4 characteristics** to see who's the **final winner** that covers the most climate change in English newspapers:
 
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="100%" height="550" src="html/top_15_proportions.html"></iframe>
 

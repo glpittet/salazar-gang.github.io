@@ -103,11 +103,11 @@ We first simply plotted the occurence of quotes covering the climate change topi
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="100%" height="550" src="html/speaker_characteristics.html"></iframe>
 
 We can observe that quotes related to climate change are said most frequently by the following speaker profile:
-- Age: *50-70
-- Occupation: *Politician
-- Political party: *Democratic
-- Academic degree: *Bachelor of Arts or Juris doctor
-- Nationality: *USA
+- Age: *50-70*
+- Occupation: *Politician*
+- Political party: *Democratic*
+- Academic degree: *Bachelor of Arts or Juris doctor*
+- Nationality: *USA*
 
 This can be explained by the fact that, first, QuoteBank is a corpus of English newspapers meaning that the USA represent the majority of speakers here. Secondly, people that tend the most to be quoted on news are politicians. We don't know about you, but in our case we do not know a lot of politicians younger than 50 years old or older than 70. Finally, the dominant party in the USA is the Democratic party and it is therefore not surprising that most quotes belong to democratic politicians. 
 It is important to emphasise here that these results **do not indicate the proportion of climate-related quotes among all cited quotes** but rather show what is the most frequent profile of Quotebank speakers in the subset of climate change-related quotes. We therefore need to plot the proportion of climate related-quotes among all cited quotes by the speaker to really get relevant results in analysing the influence of social context on the interest on climate change.

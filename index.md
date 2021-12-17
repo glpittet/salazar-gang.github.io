@@ -91,33 +91,48 @@ In fact, the **Global Week for Future**, which were a series of international st
 ### A description of the most common speaker profile...
 To see whether the social context influences the opinion on climate change, we first wanted to have a glance on who are the speakers talking the most about it on the English news without looking at the opinion on the matter. To do so, we decided to work with **5 main characteristics**:
 
-- Age of the speaker
-- Occupation (job)
-- Political party (in the USA)
-- Academic degree
-- Nationality
+- **Age of the speaker**
+- **Occupation (job)**
+- **Political party (in the USA)**
+- **Academic degree**
+- **Nationality**
 
 These informations about speakers where provided to us by our teaching assitants who extracted them from the [Wikidata knowledge base](https://www.wikidata.org/wiki/Wikidata:Main_Page).
-We first simply plotted the occurence of quotes covering the climate change topic based on the characteristics of their corresponding speaker.
+We first simply plotted the top 10 quotes' occurencies covering the climate change topic based on the characteristics of their corresponding speaker.
 
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="100%" height="550" src="html/speaker_characteristics.html"></iframe>
 
 We can observe that quotes related to climate change are said most frequently by the following speaker profile:
-- Age: *50-70*
-- Occupation: *Politician*
-- Political party: *Democratic*
-- Academic degree: *Bachelor of Arts or Juris doctor*
-- Nationality: *USA*
+- **Age:** *50-70*
+- **Occupation:** *Politician*
+- **Political party:** *Democratic*
+- **Academic degree:** *Bachelor of Arts or Juris doctor*
+- **Nationality:** *USA*
 
-This can be explained by the fact that, first, QuoteBank is a corpus of English newspapers meaning that the USA represent the majority of speakers here. Secondly, people that tend the most to be quoted on news are politicians. We don't know about you, but in our case we do not know a lot of politicians younger than 50 years old or older than 70. Finally, the dominant party in the USA is the Democratic party and it is therefore not surprising that most quotes belong to democratic politicians. 
+This can be explained by the fact that, first, QuoteBank is a corpus of English newspapers meaning that **the USA represent the majority of speakers here**. Secondly, people that tend the most to be quoted on news are **politicians**. We don't know about you, but in our case we do not know a lot of politicians younger than 50 years old or older than 70. Finally, the dominant party in the USA is the **Democratic party** and it is therefore not surprising that most quotes belong to democratic politicians.<br />
 It is important to emphasise here that these results **do not indicate the proportion of climate-related quotes among all cited quotes** but rather show what is the most frequent profile of Quotebank speakers in the subset of climate change-related quotes. We therefore need to plot the proportion of climate related-quotes among all cited quotes by the speaker to really get relevant results in analysing the influence of social context on the interest on climate change.
 
 ### Quotes on climate change VS the rest of them
 
 
-# The influence of social context: a sentimental analysis ?
+# The influence of social context on opinions of climate change: a sentiment analysis
+### Why sentiment analysis ? 
+When trying to understand the feelings or opinions that underlie a text or quote, **sentiment analysis** directly comes to mind. To analyse whether the speakers' characteristics mentioned above could influence the opinions on climate change, we decided to use a pre-trained model from hugginface which was run on all the quotes that clasifies quotes as **positive or negative**. For example the following quotes are good examples of what positive or negative means:
+
+- *"No challenge poses a greater threat to future generations than climate change"* - Barack Obama --> negative
+- *"Who can stop climate ? We can. You and you and you, and me."* - Desmond Tutu --> positive
+
+We therefore ploted the percentage of positive versus negative quotes for the top 10 occurencies for each characteristic. 
 
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="100%" height="550" src="html/sentimental_analysis.html"></iframe>
+
+Let's summarize whether we can conclude anything on the influence of the speaker's characteristics on climate change opinion:
+
+- **Age:** younger speakers seem to be more negative about climate change than older speakers (not enough speakers between 80-100 to have a relevant information). This isn't very surprising to us as younger people are more aware of the gravity of the situation than older people in general.
+- **Occupation:** Politician and diplomats have higher positive points of view about climate, mostly because they are smooth speakers and also because they do not seem to see climate change as threathening as journalists for example. 
+- **Political party:** As expected, democrats are more positive than republicans about climat change.
+- **Academic degree:** It seems that the academic degree doesn't have a tendance for sentiment analysis, thus we can say that the academic degree doesn't have a high influence on the point of view about climate change
+- **Nationality:** South Korea seems to have a more significant positive point of view about climat change compared to other countries. This could make sense while South Koreans may have a smoother way of talking with less "strong" words. 
 
 # References
 
